@@ -1,4 +1,4 @@
-# next-level-week
+# Next Level Week
 Repository dedicated to Rocketseat's Next Level Week activities
 
 --------------------------------------------------------------------
