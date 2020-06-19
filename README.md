@@ -1,4 +1,4 @@
-# Next Level Week
+<h1 align="center">Next Level Week</h1>
 Repository dedicated to Rocketseat's Next Level Week activities
 
 --------------------------------------------------------------------
