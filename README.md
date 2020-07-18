@@ -63,6 +63,12 @@ Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que s
 
 ## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
 
+- **[NodeJS](https://nodejs.org/en/)**
+- **[Express](https://expressjs.com/)**
+- **[SQLite](https://github.com/mapbox/node-sqlite3)**
+- **[Nunjucks](https://mozilla.github.io/nunjucks/)**
+- API: **[IBGE API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[IBGE API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
+
 ---
 
 ## Autor <a name="-autor" style="text-decoration:none"></a>
