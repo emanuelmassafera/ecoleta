@@ -21,7 +21,7 @@ Tabela de conteúdos
      * [Server](#user-content-server--nodejs----typescript)
      * [Mobile](#user-content-mobile--react-native----typescript)
    * [Autor](#-autor)
-   * [Licença](#user-content--licença)
+   * [Licença](#-licenca)
 <!--te-->
 
 ---
@@ -36,11 +36,11 @@ It was a great experience, mainly for who are starting at web development. Below
 
 ---
 
-## Funcionalidades
+## Funcionalidades <a name="-funcionalidades" style="text-decoration:none"></a>
 
 ---
 
-## Layout
+## Layout <a name="-layout" style="text-decoration:none"></a>
 
 ![](images/home.png)
 
@@ -56,16 +56,16 @@ It was a great experience, mainly for who are starting at web development. Below
 
 ---
 
-## Como executar o projeto
+## Como executar o projeto <a name="-como-executar-o-projeto" style="text-decoration:none"></a>
 
 ---
 
-## Tecnologias
+## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
 
 ---
 
-## Autor
+## Autor <a name="-autor" style="text-decoration:none"></a>
 
 ---
 
-## Licença
+## Licença <a name="--licenca" style="text-decoration:none"></a>
