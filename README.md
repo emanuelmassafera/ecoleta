@@ -53,6 +53,31 @@ Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que s
 
 ## Como executar o projeto <a name="-como-executar-o-projeto" style="text-decoration:none"></a>
 
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
+
+#### Rodando a aplicação
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/emanuelmassafera/next-level-week-1.git
+
+# Acesse a pasta do projeto pelo terminal/cmd
+$ cd next-level-week-1
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+
+```
 ---
 
 ## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
