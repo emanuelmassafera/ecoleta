@@ -56,8 +56,7 @@ Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que s
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto, é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). Para trabalhar com o código, é recomendável o uso de um bom editor, como o [VSCode](https://code.visualstudio.com/).
 
 #### Rodando a aplicação
 
