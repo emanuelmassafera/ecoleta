@@ -28,15 +28,16 @@ Tabela de conteúdos
 
 ## Sobre o projeto <a name="-sobre-o-projeto" style="text-decoration:none"></a>
 
-Next Level Week was a week of classes taught by Rocketseat, in which the students were able to learn a lot and start their journey in web development. 
+A Next Level Week #1 foi uma semana de aulas ministradas pela Rocketseat, na qual os alunos puderam inciar sua jornada no desenvolvimento web ou aperfeiçoar os seus conhecimentos através da construção de uma aplicação intitulada Ecoleta. 
 
-We had five days of intense coding with the aim of build an application that simulates a marketplace for waste collection. For this purpose, we learned about html, css and javascript for do the frontend, besides node.js and sql to construct the backend. 
-
-It was a great experience, mainly for who are starting at web development. Below you can see the images of the final results.
+Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que simulasse um marketplace para coleta de resíduos, uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de maneira ecológica. Para esse fim, aprendemos sobre HTML, CSS e JavaScript para fazer o frontend, além de Node.js e SQL para construir o backend.
 
 ---
 
 ## Funcionalidades <a name="-funcionalidades" style="text-decoration:none"></a>
+
+- [x] Cadastro de pontos de coleta
+- [x] Pesquisa de pontos por cidade
 
 ---
 
@@ -66,6 +67,13 @@ It was a great experience, mainly for who are starting at web development. Below
 
 ## Autor <a name="-autor" style="text-decoration:none"></a>
 
+<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/65625500?s=460&u=eb9e300de61698fc8531949a451ce2f0e9da46f9&v=4" width="100px;" alt=""/>
+<sub><b>Emanuel Massafera</b></sub>
+
+[![Badge](https://img.shields.io/static/v1?label=&message=Emanuel&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelmassafera/)](https://www.linkedin.com/in/emanuelmassafera/) [![Badge](https://img.shields.io/static/v1?label=&message=emanuel301@live.com&color=0078D4&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:emanuel301@live.com)](mailto:emanuel301@live.com)
+
 ---
 
 ## Licença <a name="-licenca" style="text-decoration:none"></a>
+
+Made with ♥ by Emanuel Massafera :wave: [Get in touch!](https://www.linkedin.com/in/emanuelmassafera/)
