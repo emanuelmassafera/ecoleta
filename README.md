@@ -78,4 +78,6 @@ Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que s
 
 ## Licença <a name="-licenca" style="text-decoration:none"></a>
 
+Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/emanuelmassafera/next-level-week-1/blob/master/LICENSE). 
+
 Made with ♥ by Emanuel Massafera :wave: [Get in touch!](https://www.linkedin.com/in/emanuelmassafera/)
