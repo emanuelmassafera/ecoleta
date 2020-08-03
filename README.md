@@ -63,7 +63,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/emanuelmassafera/next-level-week-1.git
+$ git clone https://github.com/emanuelmassafera/ecoleta.git
 
 # Acesse a pasta do projeto pelo terminal/cmd
 $ cd next-level-week-1
