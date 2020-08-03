@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week #1</h1>
+<h1 align="center">Ecoleta</h1>
 
 <p align="center">♻️ Repositório dedicado à aplicação Ecoleta, desenvolvida durante a Next Level Week #1 ♻️</p>
 
