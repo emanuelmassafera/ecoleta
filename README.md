@@ -66,7 +66,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone https://github.com/emanuelmassafera/ecoleta.git
 
 # Acesse a pasta do projeto pelo terminal/cmd
-$ cd next-level-week-1
+$ cd ecoleta
 
 # Instale as dependências
 $ npm install
