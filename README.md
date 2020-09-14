@@ -1,4 +1,4 @@
-<h1 align="center">Next Level Week #1</h1>
+<h1 align="center">Ecoleta</h1>
 
 <p align="center">♻️ Repositório dedicado à aplicação Ecoleta, desenvolvida durante a Next Level Week #1 ♻️</p>
 
@@ -53,6 +53,30 @@ Tivemos cinco dias de coding intenso com o objetivo de criar um aplicativo que s
 
 ## Como executar o projeto <a name="-como-executar-o-projeto" style="text-decoration:none"></a>
 
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). Para trabalhar com o código, é recomendável o uso de um bom editor, como o [VSCode](https://code.visualstudio.com/).
+
+#### Rodando a aplicação
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/emanuelmassafera/ecoleta.git
+
+# Acesse a pasta do projeto pelo terminal/cmd
+$ cd ecoleta
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+
+```
 ---
 
 ## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
